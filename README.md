@@ -5,11 +5,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
-<div>
-	<a href="https://github.com/Akrvx">
-	<img height=180em" src"https://github-readme-stats.vercel.app/api?username=Akrvx&show_icons&theme=dracula&include_all_commits=true&count_private=true"/>
-	<img height=180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=Akrvx&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akrvx)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
